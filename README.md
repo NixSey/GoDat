@@ -50,4 +50,3 @@ You can test it by yourself, remember that the program use memory-map logic wher
 
 ## Special Thanks
 - [GuckTubeYT](https://github.com/GuckTubeYT)
-- [KipasGTS](https://github.com/KipasGTS)
